@@ -1,0 +1,26 @@
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\bin\x86\Debug\TestPos.exe.config
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\bin\x86\Debug\TestPos.exe
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\bin\x86\Debug\TestPos.pdb
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\obj\x86\Debug\TestPos.Properties.Resources.resources
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\obj\x86\Debug\TestPos.csproj.GenerateResource.Cache
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\obj\x86\Debug\TestPos.exe
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\obj\x86\Debug\TestPos.pdb
+C:\Users\sricci\Documents\Visual Studio 2013\Projects\TestPos\obj\x86\Debug\TestPos.csprojResolveAssemblyReference.cache
+C:\Users\sricci\Documents\Visual Studio 2013\Projects\TestPos\obj\x86\Debug\TestPos.Form1.resources
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\bin\x86\Debug\TestPos.exe.config
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\x86\Debug\TestPos.exe
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\x86\Debug\TestPos.pdb
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\bin\x86\Debug\TestPos.exe
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\bin\x86\Debug\TestPos.pdb
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\x86\Debug\TestPos.Form1.resources
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\x86\Debug\TestPos.Properties.Resources.resources
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\x86\Debug\TestPos.csproj.GenerateResource.Cache
+C:\Temp\TestPos\bin\x86\Debug\TestPos.exe.config
+C:\Temp\TestPos\obj\x86\Debug\TestPos.exe
+C:\Temp\TestPos\obj\x86\Debug\TestPos.pdb
+C:\Temp\TestPos\bin\x86\Debug\TestPos.exe
+C:\Temp\TestPos\bin\x86\Debug\TestPos.pdb
+C:\Temp\TestPos\obj\x86\Debug\TestPos.csprojResolveAssemblyReference.cache
+C:\Temp\TestPos\obj\x86\Debug\TestPos.Form1.resources
+C:\Temp\TestPos\obj\x86\Debug\TestPos.Properties.Resources.resources
+C:\Temp\TestPos\obj\x86\Debug\TestPos.csproj.GenerateResource.Cache

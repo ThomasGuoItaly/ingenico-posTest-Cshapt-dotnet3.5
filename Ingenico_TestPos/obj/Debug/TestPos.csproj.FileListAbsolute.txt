@@ -1,0 +1,37 @@
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\bin\Debug\TestPos.exe.config
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\bin\Debug\TestPos.exe
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\bin\Debug\TestPos.pdb
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\obj\Debug\TestPos.csprojResolveAssemblyReference.cache
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\obj\Debug\TestPos.Properties.Resources.resources
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\obj\Debug\TestPos.csproj.GenerateResource.Cache
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\obj\Debug\TestPos.exe
+c:\users\sricci\documents\visual studio 2013\Projects\TestPos\obj\Debug\TestPos.pdb
+C:\Projects\VisualStudio\TestPos\TestPos\bin\Debug\TestPos.exe.config
+C:\Projects\VisualStudio\TestPos\TestPos\obj\Debug\TestPos.exe
+C:\Projects\VisualStudio\TestPos\TestPos\obj\Debug\TestPos.pdb
+C:\Projects\VisualStudio\TestPos\TestPos\bin\Debug\TestPos.exe
+C:\Projects\VisualStudio\TestPos\TestPos\bin\Debug\TestPos.pdb
+C:\Projects\VisualStudio\TestPos\TestPos\obj\Debug\TestPos.csprojResolveAssemblyReference.cache
+C:\Projects\VisualStudio\TestPos\TestPos\obj\Debug\TestPos.Form1.resources
+C:\Projects\VisualStudio\TestPos\TestPos\obj\Debug\TestPos.Properties.Resources.resources
+C:\Projects\VisualStudio\TestPos\TestPos\obj\Debug\TestPos.csproj.GenerateResource.Cache
+C:\Projects\VisualStudio\DemoVisualCSharp-VS2010-IAE17\TestPos\bin\Debug\TestPos.exe.config
+C:\Projects\VisualStudio\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\Debug\TestPos.exe
+C:\Projects\VisualStudio\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\Debug\TestPos.pdb
+C:\Projects\VisualStudio\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\Debug\TestPos.Form1.resources
+C:\Projects\VisualStudio\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\Debug\TestPos.Properties.Resources.resources
+C:\Projects\VisualStudio\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\Debug\TestPos.csproj.GenerateResource.Cache
+C:\Projects\VisualStudio\DemoVisualCSharp-VS2010-IAE17\TestPos\bin\Debug\TestPos.exe
+C:\Projects\VisualStudio\DemoVisualCSharp-VS2010-IAE17\TestPos\bin\Debug\TestPos.pdb
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\bin\Debug\TestPos.exe.config
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\Debug\TestPos.exe
+C:\Temp\Vera\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\Debug\TestPos.pdb
+C:\Temp\TestPos\bin\Debug\TestPos.exe.config
+C:\Temp\TestPos\obj\Debug\TestPos.exe
+C:\Temp\TestPos\obj\Debug\TestPos.pdb
+C:\Temp\TestPos\bin\Debug\TestPos.exe
+C:\Temp\TestPos\bin\Debug\TestPos.pdb
+C:\Temp\TestPos\obj\Debug\TestPos.Form1.resources
+C:\Temp\TestPos\obj\Debug\TestPos.Properties.Resources.resources
+C:\Temp\TestPos\obj\Debug\TestPos.csproj.GenerateResource.Cache
+C:\Projects\VisualStudio\DemoVisualCSharp-VS2010-IAE17\TestPos\obj\Debug\TestPos.csprojResolveAssemblyReference.cache

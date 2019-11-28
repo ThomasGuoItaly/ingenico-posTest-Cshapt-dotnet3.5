@@ -1,0 +1,114 @@
+10:53:12	DLL			COMPort				COM1
+10:53:12	DLL			BaudRate				N1
+10:53:12	DLL			DataBits				N1
+10:53:12	DLL			Parity				1
+10:53:12	DLL			StopBits				
+10:53:12	DLL			ECRDataAX->Amount				
+10:53:12	DLL			ECRDataAX->Contract				
+10:53:12	DLL			ECRDataAX->ECRId				00000000
+10:53:12	DLL			ECRDataAX->PaymentType				
+10:53:12	DLL			ECRDataAX->TerminalId				09800355
+10:53:12	DLL			ECRDataAX->PreauthorizationCode				
+10:53:12	DLL			ECRDataAX->STAN				
+10:53:12	DLL			Pre IAE17_Closure				
+10:53:12	DLL			Pre Socket Open				
+10:53:12	DLL			Post Socket Open				
+10:53:12	DLL			Pre AE_17_Closure				
+10:53:12	DLL			AE_17_TxMessage_RS232				
+10:53:12	DLL			AE_17_TxMessage_RS232				OK
+10:53:12	DLL			AE_17_RxMessage_RS232				
+10:53:12	DLL			AE_17_RxMessage_RS232				ERR_LRC
+10:53:12	DLL			AE_17_SendNAK_RS232				
+10:53:12	DLL			AE_17_SendNAK_RS232				OK
+10:53:12	DLL			AE_17_RxMessage_RS232				
+10:53:13	DLL			AE_17_RxMessage_RS232				OK
+10:53:13	DLL			Data received				000000000C01TRANSAZIONE ANNULLA0000000000000ÖM×M·
+10:53:13	DLL			AE_17_SendACK_RS232				
+10:53:13	DLL			AE_17_SendACK_RS232				OK
+10:53:13	DLL			Post AE_17_Closure				
+10:53:13	DLL			Pre Socket Close				
+10:53:13	DLL			Post IAE17_Closure				
+11:20:10	DLL			COMPort				COM1
+11:20:10	DLL			BaudRate				
+11:20:10	DLL			DataBits				
+11:20:10	DLL			Parity				
+11:20:10	DLL			StopBits				
+11:20:10	DLL			ECRDataAX->Amount				
+11:20:10	DLL			ECRDataAX->Contract				
+11:20:10	DLL			ECRDataAX->ECRId				
+11:20:10	DLL			ECRDataAX->PaymentType				
+11:20:10	DLL			ECRDataAX->TerminalId				
+11:20:10	DLL			ECRDataAX->PreauthorizationCode				
+11:20:10	DLL			ECRDataAX->STAN				
+11:20:10	DLL			Pre IAE17_Status				
+11:20:10	DLL			Pre Socket Open				
+11:20:10	DLL			Post Socket Open				
+11:20:10	DLL			Pre AE_17_Status				
+11:20:10	DLL			AE_17_TxMessage_RS232				
+11:20:16	DLL			AE_17_TxMessage_RS232				ERR_NO_ACK
+11:20:16	DLL			Post AE_17_Status				
+11:20:16	DLL			Pre Socket Close				
+11:20:16	DLL			Post IAE17_Status				
+11:21:12	DLL			COMPort				COM1
+11:21:12	DLL			BaudRate				
+11:21:12	DLL			DataBits				
+11:21:12	DLL			Parity				
+11:21:12	DLL			StopBits				
+11:21:13	DLL			ECRDataAX->Amount				
+11:21:13	DLL			ECRDataAX->Contract				
+11:21:13	DLL			ECRDataAX->ECRId				
+11:21:13	DLL			ECRDataAX->PaymentType				
+11:21:13	DLL			ECRDataAX->TerminalId				
+11:21:13	DLL			ECRDataAX->PreauthorizationCode				
+11:21:13	DLL			ECRDataAX->STAN				
+11:21:13	DLL			Pre IAE17_Status				
+11:21:13	DLL			Pre Socket Open				
+11:21:13	DLL			Post Socket Open				
+11:21:13	DLL			Pre AE_17_Status				
+11:21:13	DLL			AE_17_TxMessage_RS232				
+11:21:19	DLL			AE_17_TxMessage_RS232				ERR_NO_ACK
+11:21:19	DLL			Post AE_17_Status				
+11:21:19	DLL			Pre Socket Close				
+11:21:19	DLL			Post IAE17_Status				
+11:22:25	DLL			COMPort				COM1
+11:22:25	DLL			BaudRate				
+11:22:25	DLL			DataBits				
+11:22:25	DLL			Parity				
+11:22:25	DLL			StopBits				
+11:22:27	DLL			ECRDataAX->Amount				
+11:22:27	DLL			ECRDataAX->Contract				
+11:22:27	DLL			ECRDataAX->ECRId				
+11:22:27	DLL			ECRDataAX->PaymentType				
+11:22:27	DLL			ECRDataAX->TerminalId				
+11:22:27	DLL			ECRDataAX->PreauthorizationCode				
+11:22:27	DLL			ECRDataAX->STAN				
+11:22:27	DLL			Pre IAE17_Status				
+11:22:27	DLL			Pre Socket Open				
+11:22:27	DLL			Post Socket Open				
+11:22:27	DLL			Pre AE_17_Status				
+11:22:27	DLL			AE_17_TxMessage_RS232				
+11:22:33	DLL			AE_17_TxMessage_RS232				ERR_NO_ACK
+11:22:33	DLL			Post AE_17_Status				
+11:22:33	DLL			Pre Socket Close				
+11:22:33	DLL			Post IAE17_Status				
+11:29:16	DLL			COMPort				COM1
+11:29:16	DLL			BaudRate				
+11:29:16	DLL			DataBits				
+11:29:16	DLL			Parity				
+11:29:16	DLL			StopBits				
+11:29:16	DLL			ECRDataAX->Amount				
+11:29:16	DLL			ECRDataAX->Contract				
+11:29:16	DLL			ECRDataAX->ECRId				
+11:29:16	DLL			ECRDataAX->PaymentType				
+11:29:16	DLL			ECRDataAX->TerminalId				
+11:29:16	DLL			ECRDataAX->PreauthorizationCode				
+11:29:16	DLL			ECRDataAX->STAN				
+11:29:16	DLL			Pre IAE17_Status				
+11:29:16	DLL			Pre Socket Open				
+11:29:16	DLL			Post Socket Open				
+11:29:16	DLL			Pre AE_17_Status				
+11:29:16	DLL			AE_17_TxMessage_RS232				
+11:29:23	DLL			AE_17_TxMessage_RS232				ERR_NO_ACK
+11:29:23	DLL			Post AE_17_Status				
+11:29:23	DLL			Pre Socket Close				
+11:29:23	DLL			Post IAE17_Status				

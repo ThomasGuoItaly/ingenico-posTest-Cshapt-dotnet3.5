@@ -1,0 +1,103 @@
+10:00:11	DLL			Pre Socket Open				
+10:00:36	DLL			Pre Socket Open				
+10:01:05	DLL			Pre Socket Open				
+10:03:53	DLL			Pre Socket Open				
+10:05:10	DLL			Pre Socket Open				
+10:18:52	DLL			Pre Socket Open				
+10:21:43	DLL			Pre Socket Open				
+12:03:38	DLL			IP address				10.4.17.143
+12:03:38	DLL			Port				1000
+12:03:38	DLL			Pre IAE17_InitEth				
+12:03:38	DLL			Post IAE17_InitEth				
+12:03:38	DLL			ECRDataAX->Amount				
+12:03:38	DLL			ECRDataAX->Contract				
+12:03:38	DLL			ECRDataAX->ECRId				
+12:03:38	DLL			ECRDataAX->PaymentType				
+12:03:38	DLL			ECRDataAX->TerminalId				
+12:03:38	DLL			ECRDataAX->PreauthorizationCode				
+12:03:38	DLL			ECRDataAX->STAN				
+12:03:38	DLL			Pre IAE17_Status				
+12:03:38	DLL			Pre Socket Open				
+12:04:25	DLL			IP address				10.4.17.143
+12:04:25	DLL			Port				1000
+12:04:25	DLL			Pre IAE17_InitEth				
+12:04:25	DLL			Post IAE17_InitEth				
+12:04:25	DLL			ECRDataAX->Amount				
+12:04:25	DLL			ECRDataAX->Contract				
+12:04:25	DLL			ECRDataAX->ECRId				
+12:04:25	DLL			ECRDataAX->PaymentType				
+12:04:25	DLL			ECRDataAX->TerminalId				
+12:04:25	DLL			ECRDataAX->PreauthorizationCode				
+12:04:25	DLL			ECRDataAX->STAN				
+12:04:25	DLL			Pre IAE17_Status				
+12:04:25	DLL			Pre Socket Open				
+12:04:59	DLL			IP address				10.4.17.143
+12:04:59	DLL			Port				1000
+12:04:59	DLL			Pre IAE17_InitEth				
+12:04:59	DLL			Post IAE17_InitEth				
+12:04:59	DLL			ECRDataAX->Amount				
+12:04:59	DLL			ECRDataAX->Contract				
+12:04:59	DLL			ECRDataAX->ECRId				
+12:04:59	DLL			ECRDataAX->PaymentType				
+12:04:59	DLL			ECRDataAX->TerminalId				
+12:04:59	DLL			ECRDataAX->PreauthorizationCode				
+12:04:59	DLL			ECRDataAX->STAN				
+12:04:59	DLL			Pre IAE17_Status				
+12:04:59	DLL			Pre Socket Open				
+12:05:20	DLL			Post IAE17_Status				
+12:07:31	DLL			IP address				10.4.17.143
+12:07:31	DLL			Port				1000
+12:07:31	DLL			Pre IAE17_InitEth				
+12:07:31	DLL			Post IAE17_InitEth				
+12:07:31	DLL			ECRDataAX->Amount				
+12:07:31	DLL			ECRDataAX->Contract				
+12:07:31	DLL			ECRDataAX->ECRId				
+12:07:31	DLL			ECRDataAX->PaymentType				
+12:07:31	DLL			ECRDataAX->TerminalId				
+12:07:31	DLL			ECRDataAX->PreauthorizationCode				
+12:07:31	DLL			ECRDataAX->STAN				
+12:07:31	DLL			Pre IAE17_Status				
+12:07:31	DLL			Pre Socket Open				
+12:07:52	DLL			Post IAE17_Status				
+12:14:17	DLL			IP address				10.4.17.143
+12:14:17	DLL			Port				1000
+12:14:17	DLL			Pre IAE17_InitEth				
+12:14:17	DLL			Post IAE17_InitEth				
+12:14:17	DLL			ECRDataAX->Amount				
+12:14:17	DLL			ECRDataAX->Contract				
+12:14:17	DLL			ECRDataAX->ECRId				
+12:14:17	DLL			ECRDataAX->PaymentType				
+12:14:17	DLL			ECRDataAX->TerminalId				
+12:14:17	DLL			ECRDataAX->PreauthorizationCode				
+12:14:17	DLL			ECRDataAX->STAN				
+12:14:17	DLL			Pre IAE17_Status				
+12:14:17	DLL			Pre Socket Open				
+12:14:38	DLL			Post IAE17_Status				
+12:24:14	DLL			IP address				10.4.17.143
+12:24:14	DLL			Port				1000
+12:24:14	DLL			Pre IAE17_InitEth				
+12:24:14	DLL			Post IAE17_InitEth				
+12:24:14	DLL			ECRDataAX->Amount				
+12:24:14	DLL			ECRDataAX->Contract				
+12:24:14	DLL			ECRDataAX->ECRId				
+12:24:14	DLL			ECRDataAX->PaymentType				
+12:24:14	DLL			ECRDataAX->TerminalId				
+12:24:14	DLL			ECRDataAX->PreauthorizationCode				
+12:24:14	DLL			ECRDataAX->STAN				
+12:24:14	DLL			Pre IAE17_Status				
+12:24:14	DLL			Pre Socket Open				
+12:24:35	DLL			Post IAE17_Status				
+12:25:13	DLL			IP address				10.4.17.143
+12:25:13	DLL			Port				1000
+12:25:13	DLL			Pre IAE17_InitEth				
+12:25:13	DLL			Post IAE17_InitEth				
+12:25:13	DLL			ECRDataAX->Amount				
+12:25:13	DLL			ECRDataAX->Contract				
+12:25:13	DLL			ECRDataAX->ECRId				
+12:25:13	DLL			ECRDataAX->PaymentType				
+12:25:13	DLL			ECRDataAX->TerminalId				
+12:25:13	DLL			ECRDataAX->PreauthorizationCode				
+12:25:13	DLL			ECRDataAX->STAN				
+12:25:13	DLL			Pre IAE17_Status				
+12:25:13	DLL			Pre Socket Open				
+12:25:34	DLL			Post IAE17_Status				
